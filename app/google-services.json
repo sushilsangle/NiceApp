@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "467600541775",
+    "firebase_url": "https://quickcab-83024.firebaseio.com",
+    "project_id": "quickcab-83024",
+    "storage_bucket": "quickcab-83024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467600541775:android:0c3076e3858e43c9",
+        "android_client_info": {
+          "package_name": "com.sushils.qc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467600541775-kc3ssjjh2qsujl73qmmittg3s0sipduu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sushils.qc",
+            "certificate_hash": "b795ff87c9de69a796ea60ce35894c7e96773c92"
+          }
+        },
+        {
+          "client_id": "467600541775-oq5mc872njids4o2be6stuq0i2dh2dtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAMdKd62xBekc7Mch5xJpXCd-cyXtRUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467600541775-oq5mc872njids4o2be6stuq0i2dh2dtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
