@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "467600541775",
-    "firebase_url": "https://quickcab-83024.firebaseio.com",
-    "project_id": "quickcab-83024",
-    "storage_bucket": "quickcab-83024.appspot.com"
+    "project_number": "721324576816",
+    "firebase_url": "https://quick-cab-552d9.firebaseio.com",
+    "project_id": "quick-cab-552d9",
+    "storage_bucket": "quick-cab-552d9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:467600541775:android:0c3076e3858e43c9",
+        "mobilesdk_app_id": "1:721324576816:android:0c3076e3858e43c9",
         "android_client_info": {
           "package_name": "com.sushils.qc"
         }
       },
       "oauth_client": [
         {
-          "client_id": "467600541775-kc3ssjjh2qsujl73qmmittg3s0sipduu.apps.googleusercontent.com",
+          "client_id": "721324576816-5cfurveofei1q93qk4blkhsqg6fvm8qe.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.sushils.qc",
@@ -23,13 +23,13 @@
           }
         },
         {
-          "client_id": "467600541775-oq5mc872njids4o2be6stuq0i2dh2dtj.apps.googleusercontent.com",
+          "client_id": "721324576816-05l34gl9fnrkd0oc0ta1debnbajoe3qd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDNAMdKd62xBekc7Mch5xJpXCd-cyXtRUI"
+          "current_key": "AIzaSyC6rcUaBl0O2ZJHGysbIo2xTzWZpVtGrQ8"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "467600541775-oq5mc872njids4o2be6stuq0i2dh2dtj.apps.googleusercontent.com",
+              "client_id": "721324576816-05l34gl9fnrkd0oc0ta1debnbajoe3qd.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

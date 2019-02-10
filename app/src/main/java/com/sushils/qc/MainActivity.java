@@ -13,7 +13,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RelativeLayout;
-
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.AuthResult;
@@ -22,7 +21,6 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.rengwuxian.materialedittext.MaterialEditText;
 import com.sushils.qc.model.User;
-
 import uk.co.chrisjenx.calligraphy.CalligraphyConfig;
 import uk.co.chrisjenx.calligraphy.CalligraphyContextWrapper;
 
@@ -30,8 +28,6 @@ public class MainActivity extends AppCompatActivity {
 
     Button btnSignIn, btnRegister;
     RelativeLayout rootLaout;
-
-
     FirebaseAuth mAuth;
     FirebaseDatabase db;
     DatabaseReference users;
@@ -72,7 +68,6 @@ public class MainActivity extends AppCompatActivity {
                 showRegisterDialog();
             }
         });
-
         btnSignIn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -239,7 +234,7 @@ public class MainActivity extends AppCompatActivity {
                         .addOnFailureListener(new OnFailureListener() {
                             @Override
                             public void onFailure(@NonNull Exception e) {
-                                Snackbar.make(rootLaout,"Failed "+ e.getMessage(),Snackbar.LENGTH_SHORT).show();
+                                Snackbar.make(rootLaout,"Failed Testing"+ e.getMessage(),Snackbar.LENGTH_SHORT).show();
                             }
                         });
             }
